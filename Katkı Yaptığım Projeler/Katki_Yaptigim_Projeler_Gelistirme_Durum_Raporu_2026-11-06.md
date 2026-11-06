@@ -1,11 +1,12 @@
-# Katkı Yaptığım Projeler Geliştirme Durum ve Doğrulama Raporu
+# Katkı Yaptığım Projeler
+
+## Geliştirme Durum ve Doğrulama Raporu
 
 **Rapor dönemi:** 1-5 Kasım 2026
 
 **Rapor tarihi:** 6 Kasım 2026
 
 **Çalışma alanı:** `C:\Users\jagua\OneDrive\Masaüstü\Katkı Yaptığım Projeler`
-**Ayrıntılı Word sürümü:** [Katki_Yaptigim_Projeler_Gelistirme_Durum_Raporu_2026-11-06.docx](Katki_Yaptigim_Projeler_Gelistirme_Durum_Raporu_2026-11-06.docx)
 
 ## Yönetici özeti
 
