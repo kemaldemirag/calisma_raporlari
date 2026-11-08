@@ -7,3 +7,7 @@ Bu repo, çalışma alanlarına göre düzenlenmiş geliştirme ve doğrulama ra
 ### 02.11.2026
 
 - [Geliştirme Durum ve Doğrulama Raporu - 1-5 Kasım 2026](02.11.2026/Gelistirme_Durum_ve_Dogrulama_Raporu.md)
+
+### 08.11.2026
+
+- [Projelerim Çalışma Alanı Geliştirme ve Doğrulama Raporu - 17 Temmuz-8 Kasım 2026](08.11.2026/Gelistirme_Durum_ve_Dogrulama_Raporu.md)
