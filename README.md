@@ -14,7 +14,4 @@ Bu repo, çalışma alanlarına göre düzenlenmiş geliştirme ve doğrulama ra
 - [RSSI Ham Verisi Araştırma Raporu](08.11.2026/RSSI_Ham_Verisi_Arastirma_Raporu.md)
 - [Referans Kaynaklar Çalışma Raporu (001–005)](08.11.2026/Referans_Kaynaklar_Calisma_Raporu_001_005.md)
 - [Geliştirme Planı Araştırma Raporu](08.11.2026/Gelistirme_Plani_Arastirma_Raporu.md)
-
-### 09.11.2026
-
-- [Son Çalışmalar Durum ve Doğrulama Raporu](09.11.2026/Son_Calismalar_Durum_ve_Dogrulama_Raporu.md)
+- [Son Çalışmalar Durum ve Doğrulama Raporu](08.11.2026/Son_Calismalar_Durum_ve_Dogrulama_Raporu.md)
