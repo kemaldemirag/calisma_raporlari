@@ -22,3 +22,4 @@ Bu repo, çalışma alanlarına göre düzenlenmiş geliştirme ve doğrulama ra
 ### 11.11.2026
 
 - [Çalışma Alanı Durum ve Doğrulama Raporu](11.11.2026/Calisma_Alani_Durum_ve_Dogrulama_Raporu.md)
+- [Oynatma Listesi Kaynak Entegrasyonu Teslim Raporu (DOCX)](11.11.2026/11.11.2026_Oynatma_Listesi_Kaynak_Entegrasyonu_Teslim_Raporu.docx)
