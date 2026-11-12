@@ -24,3 +24,7 @@ Bu repo, çalışma alanlarına göre düzenlenmiş geliştirme ve doğrulama ra
 - [Çalışma Alanı Durum ve Doğrulama Raporu](11.11.2026/Calisma_Alani_Durum_ve_Dogrulama_Raporu.md)
 - [Oynatma Listesi Kaynak Entegrasyonu Teslim Raporu](11.11.2026/11.11.2026_Oynatma_Listesi_Kaynak_Entegrasyonu_Teslim_Raporu.md)
 - [Güncel Geliştirme ve Doğrulama Raporu](11.11.2026/11.11.2026_Guncel_Gelistirme_ve_Dogrulama_Raporu.md)
+
+### 12.11.2026
+
+- [PCB Doğrulama Yeniden Üretim Çalışma Raporu](12.11.2026/12.11.2026_PCB_Dogrulama_Yeniden_Uretim_Calisma_Raporu.md)
