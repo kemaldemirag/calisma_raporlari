@@ -28,3 +28,11 @@ Bu repo, çalışma alanlarına göre düzenlenmiş geliştirme ve doğrulama ra
 ### 12.11.2026
 
 - [PCB Doğrulama Yeniden Üretim Çalışma Raporu](12.11.2026/12.11.2026_PCB_Dogrulama_Yeniden_Uretim_Calisma_Raporu.md)
+
+### 15.11.2026
+
+- [Çalışma Alanı Geliştirme ve Doğrulama Raporu](15.11.2026/15.11.2026_Calisma_Alani_Gelistirme_ve_Dogrulama_Raporu.md)
+- [Çalışma Alanı Geliştirme ve Doğrulama Raporu DOCX](15.11.2026/15.11.2026_Calisma_Alani_Gelistirme_ve_Dogrulama_Raporu.docx)
+- [Son Çalışmalar Geliştirme ve Doğrulama Raporu](15.11.2026/16.11.2026_Son_Calismalar_Gelistirme_ve_Dogrulama_Raporu.docx)
+- [Lensless Holography Workbench Referans Repo Araştırması](15.11.2026/2026-11-16_Lensless_Holography_Workbench_Referans_Repo_Arastirmasi.docx)
+- [U02 G0 Baseline Audit](15.11.2026/baseline-audit.md)
