@@ -36,3 +36,4 @@ Bu repo, çalışma alanlarına göre düzenlenmiş geliştirme ve doğrulama ra
 - [Son Çalışmalar Geliştirme ve Doğrulama Raporu](15.11.2026/16.11.2026_Son_Calismalar_Gelistirme_ve_Dogrulama_Raporu.docx)
 - [Lensless Holography Workbench Referans Repo Araştırması](15.11.2026/2026-11-16_Lensless_Holography_Workbench_Referans_Repo_Arastirmasi.docx)
 - [U02 G0 Baseline Audit](15.11.2026/baseline-audit.md)
+- [17 Kasım Güncel Çalışma Raporu](15.11.2026/17.11.2026_Son_Calismalar_Gelistirme_ve_Dogrulama_Raporu.docx)
